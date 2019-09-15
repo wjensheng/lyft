@@ -1,4 +1,5 @@
-# Lyft Data Science Challenge
+# Lyft Data Challenge 2019
+The goal of the challenge is essentially to recommend a Driver's Lifetime Value (i.e., the value of a driver to Lyft over the entire projected lifetime of a driver).
 
 ## Goal
 The notebook details the solution to Lyft Data Science Challenge.
@@ -27,3 +28,6 @@ rides completed on weekdays and time elapsed between a driver's drop-off and pic
 We recommend that high value drivers should be rewarded with higher share of fare; mid value
 drivers should be nudged to encourage driving more consistently based on unusual inactivity; low
 value drivers should be incentivized via gamification strategies. Loyalty program can be introduced to all drivers to discourage "dual apping".
+
+## Acknowledgements
+Thanks to Lyft for organizing this competition and providing an interesting dataset for analysis.
