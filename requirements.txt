@@ -1,0 +1,8 @@
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+plotly_express
+umap
+
