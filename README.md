@@ -1,11 +1,8 @@
 # Lyft Data Challenge 2019
-The goal of the challenge is essentially to recommend a Driver's Lifetime Value (i.e., the value of a driver to Lyft over the entire projected lifetime of a driver).
-
-## Goal
-The notebook details the solution to Lyft Data Science Challenge.
+The goal of the challenge is essentially to recommend a Driver's Lifetime Value (i.e., the value of a driver to Lyft over the entire projected lifetime of a driver). This notebook details the solution to Lyft Data Science Challenge.
 
 ## Dataset
-Dataset was emailed to all participants by Lyft.
+Dataset was emailed to all participants by Lyft. We are provided with `driver_ids.csv`, `ride_ids.csv`, and `ride_timestamps.csv`.
 
 ## Reproduction
 All work was done on Google Colab. To reproduce the result, first create a folder under Colab Notebooks. Otherwise, remove the cells that involve Google Colab and change the following path locally.
